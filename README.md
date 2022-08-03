@@ -1,4 +1,4 @@
-###Hey, I'm Vikash Kumar! 👋
+###Hey, I'm [Vikash Kumar](https://github.com/Viku7079)! 👋
 
 - 🔭 I’m currently working in Newton School as Full Stack Developer Intern...
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript, MongoDB.
@@ -7,5 +7,4 @@
 - 📫 How to reach me: [Twitter - @viku7079](https://twitter.com/Viku7079), [Facebook - @viku7079](https://www.facebook.com/Viku7079), [LinkedIn - @viku7079](https://www.linkedin.com/in/vikash-kumar-707922/)
 - ⚡ Fun fact: Whenever I start to learning DSA my whole day goes waste.
 
-
-<img src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Viku7079?cardType=github&theme=monokai)](https://git.io/awesome-stats-card)">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=monokai">    <img  alt="Viku7079's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Viku7079?cardType=github&theme=monokai" />  </a>
