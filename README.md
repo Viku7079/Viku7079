@@ -1,7 +1,7 @@
 ###Hey, I'm [Vikash Kumar](https://github.com/Viku7079)! 👋
 
-- 🔭 I’m currently working in Newton School as Full Stack Developer Intern...
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, MongoDB.
+- 🔭 I’m currently working in Aspricus Technology Private Limited...
+- 🌱 I’m currently working on Angular, React, Node, Java, HTML, CSS, JavaScript, MongoDB.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [Twitter - @viku7079](https://twitter.com/Viku7079), [Facebook - @viku7079](https://www.facebook.com/Viku7079), [LinkedIn - @viku7079](https://www.linkedin.com/in/vikash-kumar-707922/)
